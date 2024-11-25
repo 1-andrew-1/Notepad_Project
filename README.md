@@ -27,7 +27,29 @@ lib/
 ├── homepage.dart      # Main app homepage
 ├── main.dart          # App entry point
 ```
+---
 ## Tech Stack 🛠️  
 
 - **Frontend**: Flutter (Dart)  
-- **Database**: SQLite  
+- **Database**: SQLite
+- 
+---
+
+## Screenshots 📸  
+
+### Homepage  
+<img src="screenshots/homepage.png" alt="Homepage" width="200">  
+
+### Add Note Page  
+<img src="screenshots/add_note.png" alt="Add Note Page" width="200">  
+
+### Update Note Page  
+<img src="screenshots/update_note.png" alt="Update Note Page" width="200">  
+
+### Search Notes  
+<img src="screenshots/search_notes.png" alt="Search Notes" width="200">  
+
+### Delete Notes  
+<img src="screenshots/delete_notes.png" alt="Delete Notes" width="200">  
+
+
